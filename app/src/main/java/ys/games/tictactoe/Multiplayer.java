@@ -1,5 +1,5 @@
 package ys.games.tictactoe;
-// this is for demo of fetch
+
         import androidx.appcompat.app.AppCompatActivity;
 
         import android.annotation.SuppressLint;
